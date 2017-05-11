@@ -1,0 +1,88 @@
+{
+  "title" : "e-Lite 2017 Junior Quiz Finals",
+
+  "day" : "Thursday, 11 May 2017",
+
+  "rules":
+  [
+    {"rule" : "Infinite pounce, followed by bounce"},
+    {"rule" : "+15/-5 on pounce, +10/0 on bounce"},
+    {"rule" : "Quizmaster's decision is final and binding"},
+    {"rule" : "Lord Kabir's decision is also final and binding"}
+  ],
+
+  "questions":
+  [
+    { "question" : "In Feb 2017, X sued Y and its subsidiary self-driving trucking company, Otto, for stealing its trade secrets and infringing on its patents. The company alleged that three ex-Googlers including Anthony Levandowski stole trade secrets and joined Y. The infringement lawsuit is related to X's proprietary technology, LIDAR. ID X, Y.",
+      "answer": "X - Waymo, Y - Uber"
+    },
+    { "question": "Google, never one to compete in a market with a single product, is apparently hard at work on a third operating system after Android and Chrome OS. This one is an open source, real-time OS called 'X'. Here's a screenshot of its UI, which Google is calling 'Armadillo'<br><img src='magenta.jpg'><br>Unlike Android and Chrome OS, X is not based on Linux—it uses a new, Google-developed microkernel called 'Y' based on the LittleKernel which runs on some of Google's own systems. Identify X and Y.",
+      "answer" : "X - Fuschia, Y - Magenta"
+    },
+    { "question": "‘Up to eleven’ is an idiom from popular culture, coined in the movie ‘This Is Spinal Tap’, where guitarist Nigel Tufnel proudly demonstrates an amplifier whose volume knob is marked from zero to eleven, instead of the usual zero to ten. The phrase has come to refer to anything being exploited to its utmost limits, or apparently exceeding them. However, this act is known for another popular exceeding of limits in the tech world. What?",
+      "answer" : "Overclocking"
+    },
+    { "question": "X is the world's largest biometric ID system, with over 1.133 billion enrolled members as of 31 March 2017. World Bank Chief Economist Paul Romer described X as \"the most sophisticated ID programme in world\". Initially, the X had a limited aim – to stop theft and pilferage from social welfare programmes by correctly identifying the beneficiaries using their biometrics. But now, the use of X is expanding into newer areas, including X-enabled biometric attendance systems. However, X has many security concerns widely acclaimed to be “cheap” replica of Y developed by United States which is used for similar purposes. Identify X and Y.",
+      "answer" : "X - Aadhar, Y - Social Security Number (SSN)"
+    },
+    { "question": "To recognize the best of its employees, X created the X Fellows program which awards individuals who make extraordinary technical or leadership contributions to personal computing while at the company. The X Fellowship has so far been awarded to individuals including Bill Atkinson, Steve Capps, Rod Holt, Alan Kay, Guy Kawasaki, Al Alcorn, Don Norman and Rich Page. X is one the biggest IT firms in the world. Identify X.",
+      "answer" : "X - Apple (the Apple Fellowship)"
+    },
+    { "question": "Popularly known as the 'Uber for _____’, Eaze is a startup based in San Francisco, which recently received a total funding of around $25 million till date. It has developed quite a following in the States, because of its reliable, quick and discreet delivery services. FITB, or what does the startup do?",
+      "answer" : "Uber for Weed"
+    },
+    { "question": "X founded Y in 2005 as his own blog.  In the beginning he'd write 2-3 articles per day, and it grew very quick to becoming an incredibly popular blog with many employees. Today, it operates a database of the startup ecosystem consisting of investors, incubators and startups, which comprises around 500,000 data points profiling companies, people, funds, fundings and events. The company claims to have more than 50,000 active contributors. In 2013, it had 2 million users accessing its database each month. On September 28, 2010, at its conference in San Francisco called Z, AOL announced that it would acquire Y. The price was rumored to be between $25 million and $40 million. Identify X, Y, and Z.",
+      "answer" : "X - Michael Arrington, Y - TechCrunch, Z - TechCrunch Disrupt"
+    },
+    { "question": "<img src='newlogo.gif'><br>What does this Google doodle commemorate?",
+      "answer" : "New Google logo"
+    },
+    { "question": "\"This again takes us back to my flat that I had out in the suburbs of Stockholm. Martin and I were sitting in different rooms shouting ideas back and forth of company names. We were even using jargon generators and stuff. Out of the blue Martin shouted a name that I misheard as _________. I immediately googled the name and realized there were no Google hits for the word at all. A few minutes later we registered the domain names and off we went. We were a bit embarrassed to admit that's how the name came up so our after construction was to say that ________ stems from 'identify' and 'spot'.\" The story behind the naming of which company? (Or FITB)",
+      "answer" : "Spotify"
+    },
+    { "question": "As Instagram celebrated reaching 500 million monthly users, Mark Zuckerberg posted a photo of himself enjoying the moment. But after he did, some sharp observers noticed another detail: Zuckerberg is paranoid about hackers, so he took an extra security step. What, pictured in the following photo, was the security step?<br><img src='zuck_tape_q.jpg'>",
+      "answer" : "Tape on camera and mic",
+      "answerImg": "zuck_tape_ans.jpeg"
+    },
+    { "question": "What was the consequence of this tweet?<br><img src='mojang.png'>",
+      "answer" : "Microsoft buying Mojang, the studio behind Minecraft"
+    },
+    { "question": "In April 2017, X, part-owner of streaming service Y, pulled his music catalog from Spotify and Apple Music. This was the third time the artist removed his albums from competing services, following the release of his debut album Reasonable Doubt, and later The Blueprint. It makes sense given that he co-owns a rival service that has a bigger focus on artist exclusives. ID X and Y. ",
+      "answer": "X - Jay Z, Y - Tidal"
+    },
+    { "question": "This is the Gigafactory 1, X’s under-construction lithium-ion battery manufacturer. Today, this factory can produce the infamous X Powerwalls and X Powerpacks in a limited capacity. Interestingly, its address is 1, Electric Avenue, Sparks, Nevada. Who runs it?",
+      "answer": "Tesla"
+    },
+    {
+      "question": "In 1994, Bob Parsons sold his financial software services company Parsons Technology Inc to Intuit for $65 million, and then retired. However, he came out of retirement 3 years later and launched Jomax Technologies. In 1999, a group of employees were brainstorming and decided to change the company name. An employee said, “How about Big Daddy?” However, the domain name had already been purchased, so Parsons replied, “How about X?” The name was available, so he bought it, and the company stuck with the name because it made people smile and remember it. X, today, is one of the largest Internet domain registrar and web hosting company., and is renowned for its advertising and controversies related to censorship. Identify X.",
+      "answer": "GoDaddy"
+    },
+    {
+      "question": "X, founded in 2010, is a Chinese technology company and the 5th largest smartphone maker in the world. X is the Chinese word for ‘millet’ - however, the CEO suggested that the company’s name has a much deeper meaning than just millets and rice. He linked the first part of the name to the Buddhist concept that a single grain of rice is as great as a mountain, suggesting that X wants to work from the little things, instead of starting by striving for perfection. The second part of the name is an acronym for Mission Impossible or Mobile Internet, which refers to the obstacles that the company faced when it was founded. Identify X.",
+      "answer": "Xiaomi"
+    },
+    {
+      "question": "X is internet slang for any block of text that gets copied and pasted over and over again, typically disseminated by individuals through online discussion forums and social networking sites. This simple concept of “manually copying text from one place and pasting it elsewhere” has been in practice since the innovation of basic text-editing commands (copy/cut/paste) in the early 1980s and subsequent rise of spamming in the early 1990s. Identify X.",
+      "answer": "Copypasta"
+    },
+    {
+      "question": "On June 8th, 2009, a “’paranormal pictures” photoshop contest was launched on the Something Awful (SA) Forums. The contest required participants to turn ordinary photographs into creepy-looking images through digital manipulation and then pass them on as authentic photographs on a number of paranormal forums. Something Awful users soon began sharing their faux-paranormal creations with layered images of ghosts and other anomalies, usually accompanied by a fabricated witness account to make them more convincing. On June 10th, SA user Victor Surge (real name Eric Knudsen) posted two black and white photographs of unnamed children with a short description of X as a mysterious creature who stalked children. Identify X. ",
+      "answer": "Slenderman"
+    },
+    {
+      "question": "After a 12-year life span, the X meme is dead. The original comic depicted X urinating with his pants pulled down to his ankles and the catchphrase \"feels good man\" was his rationale. The troubled cartoon and unwitting face of the alt-right movement was put to death by his creator, comic artist Matt Furie, on Saturday, May 6, 2017. He leaves behind a controversial legacy — as a character once beloved by independent comics fans who unwittingly became caught up in a maelstrom of online hate speech when Pepe The Frog began to be used for racist material by alt-right groups. On May 7 2017, Mr. Furie depicted X’s funeral in a one-page comic published in an anthology by Fantagraphics Books to coincide with Free Comic Book Day. Identify X.",
+      "answer": "Pepe The Frog"
+    },
+    { "question": "X is an Internet meme in the form of a video in which a group of people perform a comedy sketch accompanied by a short excerpt from the song X. The videos usually last about 30 seconds and features an excerpt of the 2012 song X by American electronic musician Y. Y’s song starts with a 15-second intro, a bass drop, then 15 seconds with the bass, and a lion roar at the end of the first 30 seconds. This success of the videos was in part attributed to the anticipation of the breakout moment and short length, making them very accessible to watch.The Washington Post explained the meme's instant virality by referring to the jump cuts, hypnotic beat, quick setups, and half minute routines. Identify X and Y.",
+      "answer": "Harlem Shake"
+    },
+    {
+      "question": "Identify<br><img src='nyan.png'>",
+      "answer": "Nyan cat"
+    },
+    {
+      "question": "X was started in 2003 in the bedroom of Christopher Poole, a then-15-year-old student from New York City whose handle on X is \"moot\". He intended X to be an American counterpart to the popular Japanese Futaba Channel imageboard and a place to discuss manga and anime.X users have been instrumental in pranks such as hijacking Internet destinations to cause images of Rick Astley to appear in place of their content, coordinating attacks against other websites and Internet users, and posting threats of violence in order to elicit individual and public reactions. The Guardian once summarized the X community as \"lunatic, juvenile [...] brilliant, ridiculous and alarming.\" Identify X.",
+      "answer": "4chan"
+    }
+  ]
+}

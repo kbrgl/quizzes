@@ -1,0 +1,101 @@
+{
+  "title" : "e-Lite 2017 Senior Quiz Finals",
+
+  "day" : "Thursday, 11 May 2017",
+
+  "rules":
+  [
+    {"rule" : "Infinite pounce, followed by bounce"},
+    {"rule" : "+15/-5 on pounce, +10/0 on bounce"},
+    {"rule" : "Quizmaster's decision is final and binding"},
+    {"rule" : "Lord Kabir's decision is also final and binding"}
+  ],
+
+  "questions":
+  [
+    { "question" : "<img src='wendy.jpg'><br>The person pictured, Nevada teen Carter Wilkerson, recently ousted Ellen DeGeneres for the most retweeted tweet of all time. What was the tweet?",
+      "answer" : "He asked Wendy's how many RTs he needed for a lifetime of chicken nuggets"
+    },
+    { "question" : "<img src='boole.gif'><br>What does this Google doodle commemorate? (or doesn't not commemorate?",
+      "answer": "New Google logo"
+    },
+    { "question": "Hello everybody out there using minix –<br>I’m doing a (free) operating system (just a hobby, won’t be big and professional like gnu) for 386(486) AT clones. This has been brewing since april, and is starting to get ready. I’d like any feedback on things people like/dislike in minix, as my OS resembles it somewhat (same physical layout of the file-system (due to practical reasons) among other things).<br><br>I’ve currently ported bash(1.08) and gcc(1.40), and things seem to work.<br>This implies that I’ll get something practical within a few months, and I’d like to know what features most people would want. Any suggestions are welcome, but I won’t promise I’ll implement them :-)<br><br>________ (_____@kruuna.helsinki.fi)<br><br>PS. Yes – it’s free of any minix code, and it has a multi-threaded fs.<br>It is NOT protable (uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, as that’s all I have :-(.<br><strong>Initial announcement for what?</strong>",
+      "answer" : "Linux"
+    },
+    { "question": "X is a Linux distribution composed entirely of free and open source software, which forms a base for some of the most used Linux distros in the world. Its name was formed as a portmanteau of Debra (the first name of its creator's girlfriend) and the creator's own first name. Its features include the apt package manager and a collection of over 50,000 installable packages. What is X?",
+      "answer" : "Debian"
+    },
+    { "question": "Microsoft's new Windows distribution, _________ is intended to compete with Google's ChromeOS in the education market. It's essentially a locked down version of Windows where you can only install apps from Microsoft's own Windows Store and can only run Microsoft Edge + Bing. FITB.",
+      "answer" : "Windows 10S"
+    },
+    { "question": "Snoop Dug, Tunnel McTunnelFace, the Elongater, The Dig Lebowski, Grindr and Duglass Adams are suggested names for what? +2.5 points if you can suggest another name that makes us laugh.",
+      "answer" : "The Boring Company tunneling company names"
+    },
+    { "question": "<img src='place.png'>This is reddit.com/r/place, an April Fool's Day gag and social experiment by Reddit. Put funda.",
+      "answer" : "Each user can change one pixel periodically. Hilarity ensues."
+    },
+    { "question": "We were looking at the “o” of his name and had the idea of a rising sun and a new day,” according to Sender. “The sun rising over the horizon evoked a new sense of hope. The design expression was so constrained and so bland for so many years in politics,\" Sender says. \"I think we had a fresh approach because we’d never worked on a campaign before” — and, of course, the power of the logo had a lot to do with “the power of the candidate’s message.\" What is being talked about?",
+      "answer" : "Obama '08 logo",
+      "answerImg": "obama.png"
+    },
+    { "question": "X is a programming language designed to drive all sane programmers completely out of their minds through the extreme overuse of parentheses involved in writing even the simplest of programs. Many have theorized that God himself created the language as a form of punishment for the most evil of computer programmers. In reality, it was created as a part of a government conspiracy to drive all programmers not under their control insane so that they would wind up in the looney bin. By doing this, they hoped to obtain complete control of the programming world. Fortunately, their ultimate objective was not reached; however, thousands of programmers now spend their lives in mental institutions due to this horrible, malicious programming language. The name itself is derived from the speech impediment often developed by its users as a result of the permanent brain damage they suffer.\" Excerpt from the Uncyclopedia article for what?",
+      "answer" : "Lisp"
+    },
+    {
+      "question": "The research paper behind the X App technology is called \"A Neural Algorithm of Artistic Style\" by Leon Gatys, Alexander Ecker and Matthias Bethge and was presented at the premier machine learning conference: Neural Information Processing Systems (NIPS) in 2015. This technology was developed independently and before X, and both the university and the company have no affiliation with one another. Further recent work developed by Stanford University: Perceptual Losses for Real-Time Style Transfer and Super-Resolution by Justin Johnson, Alexandre Alahi and Li Fei-Fei has also been able to create real-time style transfer through video. The code for the previous papers is available at no charge at GitHub for research purposes. The X App (on the industrial front), and Style Transfer and Super Resolution (on the research front) has been made possible thanks to research and development in human perception, texture analysis, convolutional neural networks.",
+      "answer": "Prisma"
+    },
+    { "question": "X was founded in December 1984 - however, the founder, along with his earliest associates, continued to work at Stanford on X’s first product.It consisted of exact replicas of Stanford's 'Blue Box' router and a stolen copy of the University's multiple-protocol router software. The software was originally written some years earlier at Stanford medical school by a research engineer.As a result, the founders were forced to resign from Stanford and the university contemplated filing criminal complaints against X and its founders for the theft of its software, hardware designs and other intellectual properties. However, in 1987, Stanford licensed the router software and two computer boards to X. Identify X.",
+      "answer": "Cisco"
+    },
+    { "question": "X  was a brand of digital media products and services marketed by Microsoft. X included a line of portable media players, digital media player software for Windows PCs, a music subscription service known as a 'X  Music Pass', music and video streaming services for the Xbox 360 game console via the X Software, music, TV and movie sales, and desktop sync software for Windows Phone. The X hardware players were discontinued in October 2011. In June 2012, Microsoft announced plans to discontinue all 'X' services.  X was also seen in the movie Guardian of Galaxy 2. Y is the successor to X.",
+      "answer": "X - Zune, Y - Groove Music"
+    },
+    { "question": "X is an artificial intelligence researcher and the founder of Comma.ai, a vehicle automation company. As part of his work, in 2016 X developed a self-driving Honda Acura all by himself, and was reportedly offered $12 million by Elon Musk to sell his technology to Tesla Motors and replace their existing technology used in Tesla’s vehicles. Prior to his work in this industry, X was one of the most talented hackers in the world, having won the DEFCON CTF tournament twice, and also hacked into the Sony Playstation 3, which led to a lawsuit by Sony against him. However, X is most well known for being the person behind Y - a ‘hack’ he came up with as a 17 year old - a hack that subsequently became extremely commonplace.",
+      "answer": "X - George Hotz (geohotz), Y - jailbreak"
+    },
+    { "question": "X is a Chinese American computer scientist. He is the former chief scientist at Baidu, where he led the company's Artificial Intelligence Group. He is an adjunct professor (formerly associate professor) at Stanford University. X is also the co-founder and chairman of Y, a popular online education platform founded in 2012 to offer free courses to everyone. In 2011, X founded the Google Brain project at Google, which developed very large scale artificial neural networks using Google's distributed computer infrastructure. The project's technology is currently also used in the Android Operating System's speech recognition system. Identify X and Y.",
+      "answer": "X - Andrew Ng, Y - Coursera"
+    },
+    { "question": "Based in the heart of Silicon Valley, X is developing a revolutionary new form of transportation, flying cars. Larry Page has personally funded X since its launch in 2010 while demanding that his involvement stay hidden from the public, according to people with intimate knowledge of the company. A second Page-backed flying-car startup, Y, has also begun operations and registered its headquarters about a half-mile away from X’s offices. Y’s staffers, sequestered from the X team, are working on a competing design. Its president, according to 2015 business filings, was Sebastian Thrun, the godfather of Google’s self-driving car program and the founder of research division Google X. Identify X and Y.",
+      "answer": "Zee.Aero, Kitty Hawk"
+    },
+    { "question": "X is the name of a motorcycle-racing video game series by Electronic Arts in which the player participates in violent, illegal street races. The game's title is based on the slang term for the severe friction burns that can occur in a motorcycle fall where skin comes into contact with the ground at high speed. Identify X.",
+      "answer": "Road Rash"
+    },
+    { "question": "This IITian, who earlier used to work with Rediff India, founded a startup called TenTenTen, which makes apps for connecting brands with customers. He became a social media celebrity, and shot to fame in little time. He is famous for his puns, and calls himself an armchair thinker and excessive drinker. Who?",
+      "answer": "Ramesh Srivats"
+    },
+    { "question": "“Video games don't affect people, if X had affected us as kids, we'd all be running around in dark rooms, munching pills and listening to repetitive electronic music.” ―Marcus Brigstocke. Identify X.",
+      "answer": ""
+    },
+    { "question": "X began in 1994 as a research project at Telenor, the largest Norwegian telecommunications company. In 1995, it branched out into a separate company named X Software ASA. Its primary product, X was first released publicly in 1996 with version 2.0, which only ran on Microsoft Windows. X's stated vision is \"to deliver the best Internet experience on any device.\"  X (the product) was never as popular as its competitors, but interest in the product has recently increased with the release of a new version, X Neon, which incorporates animations, design and motion similar to that seen in the real world. ID X.",
+      "answer": "Opera"
+    },
+    { "question": "It was a dark and stormy night. The X Phone’s funeral was in progress. The crowd was sparse and huddled under umbrellas. Standing in the dark, cold rain was a fresh but familiar face. The camera zooms in and we see Y. It lights a cigarette, the fire-hot cherry becoming a beacon of hope in the dark night of the niche phone graveyard. The Y grins, flicks the cigarette into the open grave and walks off into the darkness. Identify X and Y.",
+      "answer": "X - Windows, Y - Blackberry Keyone"
+    },
+    { "question": "Born in Berlin, X moved to America to escape Nazi persecution when he was just eight years old. He learned chess at the age of 13 and it quickly became his main preoccupation. As a Grandmaster of Correspondence Chess and Professor of Computer Science at Carnegie Mellon University, he directed the construction of a chess computer HiTech, one that shared a rivalry with ChipTest (later called Deep Blue), a project from the same university. As of March 31, 2005, X still had by far the highest International Correspondence Chess Federation (ICCF) rating of any player in the United States, at 2726, 84 points above the second-highest rated player. He also developed the B* search algorithm for game tree searching. X passed away earlier this year at the age of 87. Identify X.",
+      "answer": "X - Hans Berliner"
+    },
+    { "question": "In 2000, X Media Inc. began as Savage Beast Technologies, and was founded by Will Glaser, Jon Kraft and Tim Westergren. The idea was to create a separate, individualized radio station for each user having just the \"good\" music on it, with none of the \"junk\" that other users like. The company quickly ran through its initial two million dollars in funding and in 2001 the company ran out of money. Founder Tim Westergren, however, convinced the fifty employees of the company to work for two years without pay.  This service, today, is only available in Australia, USA and New Zealand.",
+      "answer": "Pandora"
+    },
+    { "question": "X is a company which likes word play, symbolism and likes to invest in multiple levels of meaning. One of the key roots of the name X is the word _____, which is Latin for envy. Envy and vision are closely tied in mythology with the eye or the gaze being a common symbol. Envy is also closely tied with the color green. All of these play into X logos and branding. ID X.",
+      "answer": "nVidia"
+    },
+    { "question": "The traitorous eight was a group of eight employees who left Shockley Semiconductor Laboratory in 1957 to create Fairchild Semiconductor - these eight people were Julius Blank, Victor Grinich, Jean Hoerni, Eugene Kleiner, Jay Last, Sheldon Roberts, X and Y. The newly founded Fairchild Semiconductor soon grew into a leader of the semiconductor industry. X and Y soon left this company to create their own, Z, which is today one of the leading manufacturers in this industry. Initially, there were talks to name the company after the last names of the founders, but this idea was rejected after they realized this would make the company name sound like 'More Noise'.",
+      "answer": "X - Gordon Moore, Y - Robert Noyce, Z - Intel"
+    },
+    { "question": "X  attended Harvard University from 1980 until 1983, where he dropped out to work for the American technology company Microsoft.  X then spent the next thirteen years working at the company, serving as a \"producer\" of the Windows 1.01, 1.02, and 1.03 operating systems. X later stated that he learned more during his first three months at Microsoft than he ever did at Harvard, explaining one of the reasons why he dropped out. Inspired by Michael Abrash, who left Microsoft to work on the computer game Quake at id Software, X and another Microsoft employee, Mike Harrington, left Microsoft to found Valve L.L.C. in 1996. X and Harrington used their money to fund Valve L.L.C. through the development of Half-Life and the GoldSrc game engine.",
+      "answer": "X - Gabe Newell"
+    },
+    { "question": "Founded in 1999 by a former Oracle Executive and three software developers previously at consulting firm Left Coast Software as a company specializing in software as a service (SaaS), X’s initial public offering was listed on the New York Stock Exchange under the stock symbol CRM in June 2004 and raised US$110 million. In December 2010, it acquired Y, a prominent cloud Platform-as-a-Service (PaaS). Y is said to be a polyglot platform as it lets the developer build, run and scale applications in a similar manner across all the languages. In September 2016, it announced Einstein, an artificial intelligence product built into X’s core, where it powers the world’s smartest Customer relationship management (CRM). Identify X and Y.",
+      "answer": "Salesforce and Heroku"
+    },
+    {
+      "question": "The original concept for X was as storage for useful or important historical texts. These texts were intended to support Wikipedia articles, by providing primary evidence and original source texts, and as an archive in its own right. The collection was initially focused on important historical and cultural material, distinguishing it from other digital archives such as Project Gutenberg. X was initially called \"Project Sourceberg\" as its first logo was a picture of an iceberg (also a play on words for Project Gutenberg). Project Sourceberg was officially launched on November 24, 2003 when it received its own temporary URL, at sources.wikipedia.org, and all texts and discussions hosted on ps.wikipedia.org were moved to the temporary address. A vote on the project's name changed it to X on December 6, 2003. Identify X.",
+      "answer": "Wikisource"
+    }
+  ]
+}
